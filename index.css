@@ -1,0 +1,67 @@
+.color{
+    background: tomato;
+}
+.color:hover{
+    background: black; /*con esta etiqueta se cambio color de fondo*/
+}
+h1{
+    color: black;
+}
+h1:hover{
+    color:red;/* con esta etiqueta se cambio color del titulo */
+}
+h2:hover{
+    color: red;
+}
+
+/* img:hover { 
+content: url('imagenes/moto2.png')
+no se puede sobre poner a todas 
+}*/
+img{
+      height: 300px;
+      width: 300px;
+}
+.verde{
+    color: black;
+   /* background: #C0C0C0;/* aqui tenemos una clase q se llama verde 
+    esto lo que hace es poner del color que queramos a la caja ene ste 
+    caso le puse gris*/
+}
+h1{
+    margin: 60px 50PX;
+    padding: 20px;
+    
+}
+h2{
+    margin: 60PX 50PX;
+    padding: 20PX;
+}
+.tomato{
+    color: BLACK;
+    background:		tomato;
+}
+.tomato:hover{
+    background: black;
+}
+.azul{
+    color: tomato;
+}
+.padre{
+    display:flex;
+    margin: 10px;
+}
+
+button{
+    background: rgb(255, 196, 252);
+    color: #4169E1;
+}
+button:hover{
+    background: tomato;
+}
+button:active{
+    background: chartreuse;
+}
+.rojo{
+    color:red;
+}

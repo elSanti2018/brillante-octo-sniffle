@@ -1,0 +1,28 @@
+.rojo{
+    color:black;
+}
+.rojo{
+    background:tomato;
+}
+.rojo:hover{
+    background:black;
+}
+h1:hover{
+    color:red;
+}
+.negro{
+    color:red
+}
+h1{
+    margin: 50px 60px;
+    padding: 20px;
+}
+img{
+ height: 300px;
+ width: 300px;
+}
+.padre{
+    margin: 10px 20px 25px 30px;
+    padding: 05px;
+    
+}
